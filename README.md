@@ -1,2 +1,5 @@
-# luck-timer
-Luck timer.
+# Luck Timer
+
+Luck timer game.
+
+09/04/2012 | Eslam Abdullah
