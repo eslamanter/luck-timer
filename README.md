@@ -1,0 +1,2 @@
+# luck-timer
+Luck timer.
